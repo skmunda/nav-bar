@@ -1,0 +1,30 @@
+@import url(utilities.css);
+
+*{
+    margin: 0px;
+    box-sizing: border-box;
+}
+header{
+    background-color: azure;
+}
+.container{
+    max-width: 1152px;
+    margin:0 auto;
+    padding: 0 15px;
+}
+header nav .left{
+    padding: 10px;
+}
+header nav .left a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color:rgb(115, 11, 124);
+    margin: 5px;
+    
+}
+header nav{
+    padding:10px;
+}
+header nav .branding{
+    margin-right: 3rem;
+}
